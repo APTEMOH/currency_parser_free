@@ -3,6 +3,7 @@
 ---
 
 # Currency Parser Free
+currency parser free | https://fixer.io/
 
 Мануал
 
